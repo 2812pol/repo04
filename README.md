@@ -15,3 +15,12 @@ Commit numero 1
 Commit numero 2  
 Commit numero 3
 
+![Mostra de l'excercici 1](IMG/actcommit.png)
+*****************
+
+Fem un merge de chill 
+
+![Mostra de l'excercici 1](IMG/act461.png)
+
+*****************
+
